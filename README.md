@@ -5,6 +5,8 @@
 <!-- badges: start -->
 <!-- badges: end -->
 
+## Description
+
 The ERGtools2 package is an environment for working with
 electroretinogram data. It contains an import method for Diagnosys
 Espion data, but allows reading in of data coming in other formats with
